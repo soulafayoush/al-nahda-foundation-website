@@ -1,0 +1,14 @@
+# Vercel build ignore — these files are not needed for deployment
+dev.log
+server.log
+*.log
+worklog.md
+screenshot-*.png
+sc-*.png
+download/
+upload/
+skills/
+examples/
+tests/
+mini-services/
+db/*.db
